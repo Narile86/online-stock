@@ -13,4 +13,12 @@ a {
 .a-hover:hover {
     color: #eb3e32;
 }
+
+.text-mine {
+    color: black;
+}
+
+.text-mine:hover {
+    color: #eb3e32
+}
   
